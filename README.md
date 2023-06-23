@@ -1,0 +1,2 @@
+# Programming_for_Everybody_Getting_Started_with_Python
+Welcome to the repository for the 'Programming for Everybody (Getting Started with Python)' project on Coursera! Access code examples, assignment solutions, templates, and additional resources to support your learning journey in mastering Python programming. Join a collaborative environment and contribute to enhancing the learning experience. 
